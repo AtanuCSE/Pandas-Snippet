@@ -17,3 +17,10 @@ Some problem that can arise while assigning into another variable or in case of 
 *   Copy function
 *   drop row problem (inplace=True)
 *   Pandas slicing problem
+
+### 03_Pandas_Merge_Join
+*   Merge / Join
+    - outer, inner, left, right
+    - join based on normal column (NOT INDEX / Key)
+    - Same Column name (not key)
+    - Based on two KEY
