@@ -24,3 +24,6 @@ Some problem that can arise while assigning into another variable or in case of 
     - join based on normal column (NOT INDEX / Key)
     - Same Column name (not key)
     - Based on two KEY
+    
+### 04_Find_Row_Index.ipynb
+*   Find whole dataset dor specific value and return corresponding index value
