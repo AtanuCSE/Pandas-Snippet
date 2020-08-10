@@ -25,5 +25,10 @@ Some problem that can arise while assigning into another variable or in case of 
     - Same Column name (not key)
     - Based on two KEY
     
-### 04_Find_Row_Index.ipynb
+### 04_Find_Row_Index
 *   Find whole dataset dor specific value and return corresponding index value
+
+### 05_Find_Index_and_Delete_Row
+*   Search value in a column
+*   Find index
+*   Delete row
