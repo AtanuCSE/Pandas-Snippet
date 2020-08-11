@@ -32,3 +32,7 @@ Some problem that can arise while assigning into another variable or in case of 
 *   Search value in a column
 *   Find index
 *   Delete row
+
+### 06_Search_Value
+*   Return Column list
+*   Return (Column Name + Row Index) list
