@@ -36,3 +36,9 @@ Some problem that can arise while assigning into another variable or in case of 
 ### 06_Search_Value
 *   Return Column list
 *   Return (Column Name + Row Index) list
+
+### 07_Multiple_Task
+* Date-wise Maximum Minimum
+* Dictionary to Dataframe
+* Column Values Shift
+* Identify Increasing or Decreasing Values after GroupBy
