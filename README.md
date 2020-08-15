@@ -45,3 +45,4 @@ Some problem that can arise while assigning into another variable or in case of 
 
 ### 08_GroupBy_and_All_Cell_Value_Count
 
+(Example: How many times a single cell values appeared for each unique row index)
