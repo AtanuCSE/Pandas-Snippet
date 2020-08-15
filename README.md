@@ -42,3 +42,6 @@ Some problem that can arise while assigning into another variable or in case of 
 * Dictionary to Dataframe
 * Column Values Shift
 * Identify Increasing or Decreasing Values after GroupBy
+
+### 08_GroupBy_and_All_Cell_Value_Count
+
