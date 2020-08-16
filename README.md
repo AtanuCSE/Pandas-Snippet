@@ -49,3 +49,6 @@ Some problem that can arise while assigning into another variable or in case of 
 
 ### 09_Unequal_Column_Size
 * Combine Single value and List in a Single DataFrame
+
+### 10_Previous_Column_Value_Shift
+* Assign Values From Previous Column based on Conditions
