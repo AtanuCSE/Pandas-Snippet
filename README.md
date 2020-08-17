@@ -52,3 +52,14 @@ Some problem that can arise while assigning into another variable or in case of 
 
 ### 10_Previous_Column_Value_Shift
 * Assign Values From Previous Column based on Conditions
+
+### 11_Multiple_Tasks
+* Rank Function </br>
+  (Rank minimum value to maximum for a column)
+  - Different types of Rank function
+* GroupBy and Covert to Dictionary
+* Find value in one column and assign in another
+* Freuency Count when value exist in multiple row
+* GroupBy Assign Minimum Value
+* Remove digit when columns contain SET
+* Multiple Rectangle in Same Figure from Column Values  
