@@ -63,3 +63,10 @@ Some problem that can arise while assigning into another variable or in case of 
 * GroupBy Assign Minimum Value
 * Remove digit when columns contain SET
 * Multiple Rectangle in Same Figure from Column Values  
+
+### 12_Multiple_Tasks
+* Only Alpha-Numeric Values
+* Right Outer Join
+* Multiple Column to Tuple
+* Value Assign based on Condition on Another Column
+
