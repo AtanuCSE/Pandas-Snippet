@@ -73,6 +73,5 @@ Some problem that can arise while assigning into another variable or in case of 
 ### 13_Multiple_Taks
 * Concat Columns with Different Header
 * Grouper Frequency
-  
   (Example: Convert date range into n division)
 * Search Column with list of tuples
