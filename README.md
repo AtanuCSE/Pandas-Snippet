@@ -80,3 +80,17 @@ Some problem that can arise while assigning into another variable or in case of 
 * Replace from Multiple Column
 * Row Values to Column Names (Pivot Table)
 * Mapping (Many to One)
+
+### 15_Pandas_Pivot_Table
+**Topic**
+
+* Simple Pivot
+  - Rearrange row to column
+* Pivot Table
+  - Row to Column and Apply Functions
+  - Reset Index and Header
+* Multiple Aggregate Function
+* Pivot Table with Multiple Index
+* Different Agg Function on Different Columns
+
+
