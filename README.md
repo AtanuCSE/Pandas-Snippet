@@ -82,8 +82,6 @@ Some problem that can arise while assigning into another variable or in case of 
 * Mapping (Many to One)
 
 ### 15_Pandas_Pivot_Table
-**Topic**
-
 * Simple Pivot
   - Rearrange row to column
 * Pivot Table
