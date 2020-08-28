@@ -75,3 +75,8 @@ Some problem that can arise while assigning into another variable or in case of 
 * Grouper Frequency </br>
   (Example: Convert date range into n division)
 * Search Column with list of tuples
+
+### 14_Multiple_Tasks
+* Replace from Multiple Column
+* Row Values to Column Names (Pivot Table)
+* Mapping (Many to One)
